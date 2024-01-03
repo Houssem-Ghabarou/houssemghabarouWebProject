@@ -1,0 +1,9 @@
+Project Files for How to Create an Online Code Editor with HTML, CSS and JavaScript
+
+Thanks for watching my videos. Remember to subscribe and leave a like. 
+Also, share my videos with your friends.
+
+Note: The fonts might not be the same if you don't have Poppins installed on
+you machine
+
+Thanks for the support
